@@ -1,0 +1,5 @@
+[
+  "tests/test_auto_commit.py::TestCommit::test_basic",
+  "tests/test_auto_commit.py::TestCommit::test_empty",
+  "tests/test_auto_commit.py::TestCommit::test_type_error"
+]
