@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "auto-commit"
+version = "1.0.0"
+description = "Auto-commit changes on file save"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.8"
+authors = [{name = "raccoonette"}]
+
+[project.urls]
+Homepage = "https://github.com/raccoonette/auto-commit"
